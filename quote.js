@@ -1,7 +1,7 @@
 const text=document.getElementById("quote");
 const author=document.getElementById("author");
 
-
+// this is js file
 const getNewQuote = async () =>
 {
     //api for quotes
